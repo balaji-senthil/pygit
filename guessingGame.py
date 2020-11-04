@@ -9,5 +9,5 @@ while 1:
         if guess > magicNumber:
             guess = int(input('Guess a lower number '))
     else:
-        print('Hurray! found the number')
+        print('Hurray! you found the number')
         break
